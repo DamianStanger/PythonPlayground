@@ -12,3 +12,6 @@ I didnt use any other online resources
 
 Admission
 Im not a total newb at python, i have read and code reviewed many scripts, but some how i have never actually written a program that actually does anything.
+
+
+I wrote a blog post about this, well i co-wrote one... https://foldingair.blogspot.com/2023/07/exploring-python-and-openai-unveiling.html
